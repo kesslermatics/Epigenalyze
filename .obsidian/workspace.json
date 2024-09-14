@@ -9,55 +9,18 @@
         "dimension": 54.63474524248005,
         "children": [
           {
-            "id": "30848ee4e53035fc",
+            "id": "e5a49d203bc4477e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chromatin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32cb81e48d12c4d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Epigenetische Vererbung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "043630d2d1eb59a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Umwelt und Epigenetik.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e081b06b5a1b0d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Überblick.md",
+                "file": "Epigenetik und Krebs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "2b711c054653eef2",
@@ -158,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Umwelt und Epigenetik.md",
+                "file": "Epigenetik und Krebs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Umwelt und Epigenetik.md",
+                "file": "Epigenetik und Krebs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Umwelt und Epigenetik.md"
+                "file": "Epigenetik und Krebs.md"
               }
             }
           },
@@ -272,15 +235,19 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "043630d2d1eb59a5",
+  "active": "e5a49d203bc4477e",
   "lastOpenFiles": [
+    "Was ist Epigenetik.md",
+    "Epigenetik und Krebs.md",
+    "Epigenetik und Alterung.md",
     "Überblick.md",
-    "Umwelt und Epigenetik.md",
     "Epigenetische Vererbung.md",
+    "Wikipedia/Genetische Uhr.md",
+    "Wikipedia/Nukleotidsäurestränge.png",
     "Chromatin.md",
+    "Umwelt und Epigenetik.md",
     "Histon-Modifikation.md",
     "Nukleotid.md",
-    "Was ist Epigenetik.md",
     "DNA-Methylierung.md",
     "README.md",
     "Wie funktioniert die Genexpression.md",
@@ -289,7 +256,6 @@
     "Wikipedia/Histon.md",
     "Wikipedia/Methylgruppenanordnung.png",
     "Wikipedia/Methylgruppen.md",
-    "Wikipedia/Nukleotidsäurestränge.png",
     "Wikipedia/Epigenetische Vererbung.md",
     "Wikipedia/Chromatinformen.jpg",
     "Wikipedia/Chromatin-Aufbau.png",
@@ -302,9 +268,6 @@
     "100 Active/Epigenalyze/DNA-Methylierung.md",
     "100 Active/Epigenalyze/Was ist Epigenetik.md",
     "100 Active/Epigenalyze/Überblick.md",
-    "100 Active/Epigenalyze/README.md",
-    "100 Active/Epigenalyze/Wie funktioniert die Genexpression.md",
-    "100 Active/Epigenalyze/Wikipedia/Acethylierung.md",
     "100 Active/Epigenalyze/Wikipedia/Chromatin-Aufbau.png",
     "100 Active/Epigenalyze/Wikipedia/Chromatin.png",
     "100 Active/Epigenalyze/Wikipedia/Methylgruppenanordnung.png",

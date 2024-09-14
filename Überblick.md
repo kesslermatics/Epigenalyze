@@ -1,13 +1,9 @@
 ---
 created at: Wednesday, September 11th 2024, 3:06:37 pm
-updated at: Saturday, September 14th 2024, 12:07:57 pm
+updated at: Saturday, September 14th 2024, 4:52:59 pm
 tags: 
 ---
 
-
-- **Epigenetik und Alterung**
-    
-    - Verlinke auf: **Epigenetische Uhr**, **Biologisches Alter**, **DNA-Schädigung**, **Zelluläre Seneszenz**.
 - **Epigenetik und Krebs**
     
     - Verlinke auf: **Tumorsuppressor-Gene**, **Onkogene**, **Epimutationen**, **Therapeutische Zielmoleküle**.

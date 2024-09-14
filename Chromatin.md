@@ -1,6 +1,6 @@
 ---
 created at: Wednesday, September 11th 2024, 6:32:39 pm
-updated at: Saturday, September 14th 2024, 11:43:15 am
+updated at: Saturday, September 14th 2024, 4:48:43 pm
 tags: 
 ---
 Das Chromatin ist ein Material, aus welches das [[Chromosom]] besteht.
