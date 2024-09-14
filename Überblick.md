@@ -1,12 +1,9 @@
 ---
 created at: Wednesday, September 11th 2024, 3:06:37 pm
-updated at: Friday, September 13th 2024, 5:50:25 pm
+updated at: Saturday, September 14th 2024, 12:02:27 pm
 tags: 
 ---
 
-- **Epigenetische Vererbung: Mechanismen und Grenzen**
-    
-    - Verlinke auf: **Mitose**, **Meiose**, **Transgenerationale Epigenetik**, **Vererbungsmuster**.
 - **Umwelt und Epigenetik: Einfluss externer Faktoren auf das Epigenom**
     
     - Verlinke auf: **Ernährung**, **Rauchen**, **Stress**, **Toxine**.

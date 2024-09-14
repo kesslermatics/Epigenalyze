@@ -1,6 +1,6 @@
 ---
 created at: Saturday, September 14th 2024, 12:00:07 pm
-updated at: Saturday, September 14th 2024, 12:00:37 pm
+updated at: Saturday, September 14th 2024, 12:02:22 pm
 tags: 
 ---
 **Epigenetische Vererbung** bezeichnet die Übertragung von **epigenetischen Markierungen** und Mustern von einer Generation zur nächsten, ohne dass dabei die DNA-Sequenz selbst verändert wird. Dies bedeutet, dass Umweltfaktoren und Erfahrungen nicht nur das Individuum, sondern potenziell auch seine Nachkommen beeinflussen können.
