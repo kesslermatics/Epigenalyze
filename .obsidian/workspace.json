@@ -1,0 +1,334 @@
+{
+  "main": {
+    "id": "eadd73654816a0f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "da25289b7db9b1e2",
+        "type": "tabs",
+        "dimension": 54.63474524248005,
+        "children": [
+          {
+            "id": "30848ee4e53035fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chromatin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1004826314d04113",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chromatin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7995ff7622044687",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e081b06b5a1b0d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Überblick.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "2b711c054653eef2",
+        "type": "tabs",
+        "dimension": 45.36525475751995,
+        "children": [
+          {
+            "id": "a8915f2a1ab6927e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Überblick.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f8a84991486637f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ec7c8c093e936e6",
+        "type": "tabs",
+        "dimension": 73.7721021611002,
+        "children": [
+          {
+            "id": "e335941bcfcdef97",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2fc0c7a27bf9ffd3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1969c6276f57de45",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "d2f012cc3ababd03",
+        "type": "tabs",
+        "dimension": 26.227897838899807,
+        "children": [
+          {
+            "id": "a4850f23d6a1a354",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 333.5
+  },
+  "right": {
+    "id": "7d761f10afe15ade",
+    "type": "split",
+    "children": [
+      {
+        "id": "b624071f9082a5d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44331e6717dccba7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7ea37c4489e0d6ae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a086ac795a165136",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b01febd4ebb7ea22",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
+            }
+          },
+          {
+            "id": "7ee69023baf13caa",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "aa0279f8dda5acf2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "9400768a2bcfe6a7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "1c841952b44069b3",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-chatgpt",
+              "state": {}
+            }
+          },
+          {
+            "id": "ae0c3e8b7aca78f3",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 553.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "janitor:Janitor: scan vault": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-custom-frames:Open ChatGPT": false,
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
+    }
+  },
+  "active": "7995ff7622044687",
+  "lastOpenFiles": [
+    "Chromatin.md",
+    "conflict-files-obsidian-git.md",
+    "DNA-Methylierung.md",
+    "Histon-Modifikation.md",
+    "Nukleotid.md",
+    "Wie funktioniert die Genexpression.md",
+    "Was ist Epigenetik.md",
+    "Überblick.md",
+    "README.md",
+    "Wikipedia/Acethylierung.md",
+    "Wikipedia/Histon.md",
+    "Wikipedia/Methylgruppenanordnung.png",
+    "Wikipedia/Methylgruppen.md",
+    "Wikipedia/Nukleotidsäurestränge.png",
+    "Wikipedia/Epigenetische Vererbung.md",
+    "Wikipedia/Chromatinformen.jpg",
+    "Wikipedia/Chromatin-Aufbau.png",
+    "Wikipedia/DNA (Desoxyribo-Nukleinsäure).md",
+    "DNA versus RNA.md",
+    "Wikipedia/DNA versus RNA.png",
+    "Wikipedia/RNA (Ribo-Nukleinsäure).md",
+    "Wikipedia/DNA.md",
+    "Wikipedia/Phosphorylisierung.md",
+    "100 Active/Epigenalyze/DNA-Methylierung.md",
+    "100 Active/Epigenalyze/Was ist Epigenetik.md",
+    "100 Active/Epigenalyze/Überblick.md",
+    "100 Active/Epigenalyze/README.md",
+    "100 Active/Epigenalyze/Wie funktioniert die Genexpression.md",
+    "100 Active/Epigenalyze/Wikipedia/Acethylierung.md",
+    "100 Active/Epigenalyze/Histon-Modifikation.md",
+    "200 Wikipedia/Vorhersage von Wasserqualitäts-Parametern.md",
+    "100 Active/Epigenalyze/Wikipedia/Chromatin-Aufbau.png",
+    "100 Active/Epigenalyze/Wikipedia/Chromatin.png",
+    "100 Active/Epigenalyze/Wikipedia/Methylgruppenanordnung.png",
+    "100 Active/Epigenalyze/Wikipedia/Mechanismen der Epigenetik.png",
+    "100 Active/Epigenalyze/Wikipedia/Mechanismen der Epigenetik-1.png",
+    "100 Active/Epigenalyze/Wikipedia",
+    "100 Active/Master/Computer Vision/01 - Prüfung/Feature Detection & Matching.canvas",
+    "100 Active/Master/Computer Vision/01 - Prüfung/Data Fusion.canvas",
+    "100 Active/Epigenalyze",
+    "Untitled",
+    "100 Active/Master/Computer Vision/01 - Prüfung/Video Processing.canvas",
+    "100 Active/Master/Computer Vision/01 - Prüfung/Sequential Video Processing.canvas",
+    "100 Active/Master/Computer Vision/01 - Prüfung/3D Reconstruction.canvas",
+    "200 Wikipedia/s12665-012-1967-6.pdf",
+    "200 Wikipedia/Qiao et al. - 2020 - A Sentiment-Controllable Topic-to-Essay Generator .pdf",
+    "100 Active/Projekte/Aquaware/Parameter",
+    "100 Active/Projekte/Aquaware",
+    "100 Active/Projekte",
+    "100 Active/Master/Sprachassistenzsysteme/Notes/Textgenerierung",
+    "100 Active/Master/Sprachassistenzsysteme/Notes/Wissensrepräsentaion",
+    "100 Active/Master/Sprachassistenzsysteme/Notes/ASR (Automatische Spracherkennung).canvas",
+    "100 Active/Master/Sprachassistenzsysteme/Notes/UNISPEECH.canvas",
+    "100 Active/Master/Sprachassistenzsysteme/Notes/W2V-Bert.canvas",
+    "100 Active/Master/Sprachassistenzsysteme/Notes/Multi-Modal Pre-Training.canvas",
+    "100 Active/Master/Sprachassistenzsysteme/Notes/Conformer.canvas"
+  ]
+}
