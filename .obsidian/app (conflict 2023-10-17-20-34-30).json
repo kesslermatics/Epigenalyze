@@ -1,0 +1,21 @@
+{
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "livePreview": true,
+  "spellcheckLanguages": null,
+  "trashOption": "local",
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "4. Dateien",
+  "readableLineLength": true,
+  "showLineNumber": false,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "autoPairBrackets": true,
+  "newFileFolderPath": "3. Ressourcen"
+}

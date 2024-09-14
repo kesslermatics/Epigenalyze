@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "887dbe708c7cfab4",
+    "type": "split",
+    "children": [
+      {
+        "id": "8267620f61b6cad4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f26da429ebcab872",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100 Active/Projekte/Aquaware/Parameter/Feststoffe (Total Solids).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "765a98f7c0d69030",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5f8a230e0a81174d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a0043b76017c9f24",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Karamel",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "dcfd1ba0c264e119",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "bdd61173623508b6",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "10ca1c77cb21346f",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      },
+      {
+        "id": "8c1f8a0063a5c89f",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "ea5aae003c10a29a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "de341d35cf07c9d1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "100 Active/Projekte/Aquaware/Parameter/Feststoffe (Total Solids).md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4cb17e6b86e32a4c",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "100 Active/Projekte/Aquaware/Parameter/Feststoffe (Total Solids).md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "ed0df20e3cdddca5",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "100 Active/Projekte/Aquaware/Parameter/Feststoffe (Total Solids).md"
+          }
+        }
+      },
+      {
+        "id": "2d04e4f80584adb5",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "janitor:Janitor: scan vault": false
+    }
+  },
+  "active": "f26da429ebcab872",
+  "lastOpenFiles": [
+    "100 Active/Projekte/Aquaware/Parameter/pH.md",
+    "100 Active/Projekte/Aquaware/Parameter/Wassertemperatur.md",
+    "100 Active/Projekte/Aquaware/Vorhersage von Wasserqualitäts-Parametern.md",
+    "100 Active/Master/Sprachassistenzsysteme/Notes/Textgenerierung/NLG Enhanced by Knowledge Base.md",
+    "100 Active/Master/Sprachassistenzsysteme/Prüfungsfragen (conflict 2024-07-05-16-29-13).md",
+    "200 Wikipedia/Statistical Machine Translation.png",
+    "200 Wikipedia/Nested Concepts.png",
+    "200 Wikipedia/Dialog Pipeline.png",
+    "200 Wikipedia/Flat Concepts.png",
+    "100 Active/Master/Sprachassistenzsysteme/Notes/Spoken Language Understanding/DiffSLU.md",
+    "100 Active/Master/Sprachassistenzsysteme/Notes/Wissensrepräsentaion/DeepWalk.md",
+    "100 Active/Master/Sprachassistenzsysteme/Notes/Spoken Language Understanding/Natural Language Understanding.md",
+    "100 Active/Master/Sprachassistenzsysteme/Notes/Spoken Language Understanding/End-to-end SLU Model with SLU component pre-trinaing.md",
+    "200 Wikipedia/CTC (Connectionist Temporal Classification).md",
+    "100 Active/Master/Sprachassistenzsysteme/Notes/Spoken Language Understanding/DIET (Dual Intent and Entity Transformer).md",
+    "200 Wikipedia/Masked Language Model.md",
+    "200 Wikipedia/Sparse Features.md",
+    "100 Active/Master/Sprachassistenzsysteme/Notes/Fourier Transformation.md",
+    "100 Active/Master/Sprachassistenzsysteme/Notes/Automatische Spracherkennung.md",
+    "100 Active/Master/Sprachassistenzsysteme/Notes/Conformer.md",
+    "200 Wikipedia/GLU-Aktivierung.md",
+    "200 Wikipedia/Macaron.md",
+    "100 Active/Master/Sprachassistenzsysteme/Notes/UNISPEECH.canvas",
+    "1. Active/Master/Big Data Konzepte/01 - Prüfung/Flashcards/Data Governance.md",
+    "1. Active/Master/Computer Vision/01 - Prüfung/3D Reconstruction.canvas",
+    "conflict-files-obsidian-git.md",
+    "1. Active/Master/Big Data Konzepte/01 - Prüfung/Flashcards/Data Governance-TABLET-H0HA61M7.md",
+    "1. Active/Master/Computer Vision/Advanced Computer Vision.canvas",
+    "3. Ressourcen/Zink.md",
+    "2. Notizen",
+    "4. Archiv",
+    "Pasted image 20231016193433.png",
+    "3. Dateien/Perceptron.png",
+    "3. Dateien",
+    "1. Active/Master/Intelligente Robotik/Trajektorie.md",
+    "1. Active/Master/Intelligente Robotik/Roboter.md",
+    "1. Active/Master/Intelligente Robotik/Motivation für intelligente Robotik.md",
+    "1. Active/Master/Intelligente Robotik/Manipulation.md",
+    "1. Active/Master/Intelligente Robotik",
+    "1. Active/Master/Deep Learning/Untitled.ipynb",
+    "1. Active/Master/Deep Learning",
+    "1. Active/Master/Computer Vision"
+  ]
+}

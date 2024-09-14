@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "eadd73654816a0f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a74bf640a6f345f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25edda1406440279",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Projekte/Brewing Guide/Kaffeerezepte/Cappuccino.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f8a84991486637f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ec7c8c093e936e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e335941bcfcdef97",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2fc0c7a27bf9ffd3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1969c6276f57de45",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 284.49999618530273
+  },
+  "right": {
+    "id": "7d761f10afe15ade",
+    "type": "split",
+    "children": [
+      {
+        "id": "b624071f9082a5d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44331e6717dccba7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Projekte/Brewing Guide/Kaffeerezepte/Cappuccino.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7ea37c4489e0d6ae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. Projekte/Brewing Guide/Kaffeerezepte/Cappuccino.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a086ac795a165136",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b01febd4ebb7ea22",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Projekte/Brewing Guide/Kaffeerezepte/Cappuccino.md"
+              }
+            }
+          },
+          {
+            "id": "16ba1451baf2aebe",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "7ee69023baf13caa",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 447.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "janitor:Janitor: scan vault": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "graph:Open graph view": false
+    }
+  },
+  "active": "25edda1406440279",
+  "lastOpenFiles": [
+    "1. Projekte/Brewing Guide/Kaffeerezepte/Caffé Latte.md",
+    "1. Projekte/Brewing Guide/Kaffeerezepte/Cappuccino.md",
+    "1. Projekte/Brewing Guide/Kaffeerezepte/Flat White.md",
+    "1. Projekte/Brewing Guide/Kaffeerezepte/Cortado.md",
+    "1. Projekte/Brewing Guide/Kaffeerezepte/Milk Coffee (Kaffee mit Milch).md",
+    "1. Projekte/Brewing Guide/Kaffeerezepte/Filter Coffee.md",
+    "1. Projekte/Brewing Guide/Kaffeerezepte/Macchiato.md",
+    "1. Projekte/Brewing Guide/Kaffeerezepte/Single Espresso.md",
+    "1. Projekte/Brewing Guide/Kaffeerezepte/Geschäumte Milch.md",
+    "1. Projekte/Brewing Guide/Kaffeerezepte/Black Coffee (Schwarzer Kaffee).md",
+    "1. Projekte/Brewing Guide/Kaffeerezepte/Americano.md",
+    "1. Projekte/Brewing Guide/Kaffeerezepte/Lungo.md",
+    "1. Projekte/Brewing Guide/Kaffeerezepte/Double Espresso.md",
+    "1. Projekte/Brewing Guide/Kaffeerezepte/Untitled.md",
+    "3. Ressourcen/Künstliche Neuronen.md",
+    "1. Projekte/Brewing Guide/Kaffeerezepte",
+    "1. Projekte/Brewing Guide",
+    "2. Areas/Gesundheit/Vitamine.canvas",
+    "3. Ressourcen/Zink.md",
+    "3. Ressourcen/Vitamine.md",
+    "2. Areas/Gesundheit",
+    "1. Projekte/Master/KI/Künstliche Intelligenz.canvas",
+    "Home.md",
+    "Excalidraw/13-07-23.excalidraw.md",
+    "Excalidraw/13-07-23_13-04.excalidraw.md",
+    "Excalidraw/13-07-23 pmt 13-03.excalidraw.md",
+    "Excalidraw/2023-07-13 13.00.20.excalidraw.md",
+    "Excalidraw/Drawing 2023-07-13 12.50.26.excalidraw.md",
+    "3. Ressourcen/Kalzium.md",
+    "test.md",
+    "1. Projekte/Master/KI",
+    "1. Projekte/Master",
+    "2. Areas/Note-Taking/Die 3 Prinzipien des Note-Takings.md",
+    "Templates",
+    "4. Dateien",
+    "2. Areas/Note-Taking",
+    "Readwise/Books",
+    "Readwise",
+    "Master/Semester 1/Coffee/Pasted image 20230710111533.png",
+    "Master/Semester 1/Coffee/Pasted image 20230710111447.png",
+    "Pasted image 20230709213405.png",
+    "Untitled.canvas",
+    "Pasted image 20230709213411.png"
+  ]
+}

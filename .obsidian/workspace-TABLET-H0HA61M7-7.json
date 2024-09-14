@@ -1,0 +1,296 @@
+{
+  "main": {
+    "id": "eadd73654816a0f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff978d3bd72f09ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e0f6a4ff1fae057",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1. Active/Master/Big Data Konzepte/01 - Prüfung/Data Governance.canvas",
+                "viewState": {
+                  "x": -1123.8658901341744,
+                  "y": -517.0761873343175,
+                  "zoom": -0.9113254910729631
+                }
+              }
+            }
+          },
+          {
+            "id": "d7589540208161be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Active/Master/Big Data Konzepte/01 - Prüfung/Flashcards/Data Governance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f8a84991486637f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ec7c8c093e936e6",
+        "type": "tabs",
+        "dimension": 73.7721021611002,
+        "children": [
+          {
+            "id": "e335941bcfcdef97",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2fc0c7a27bf9ffd3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "f",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1969c6276f57de45",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "d2f012cc3ababd03",
+        "type": "tabs",
+        "dimension": 26.227897838899807,
+        "children": [
+          {
+            "id": "a4850f23d6a1a354",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 255.49999618530273
+  },
+  "right": {
+    "id": "7d761f10afe15ade",
+    "type": "split",
+    "children": [
+      {
+        "id": "b624071f9082a5d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44331e6717dccba7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Active/Master/Big Data Konzepte/01 - Prüfung/Flashcards/Data Governance.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7ea37c4489e0d6ae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. Active/Master/Big Data Konzepte/01 - Prüfung/Flashcards/Data Governance.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a086ac795a165136",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b01febd4ebb7ea22",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Active/Master/Big Data Konzepte/01 - Prüfung/Flashcards/Data Governance.md"
+              }
+            }
+          },
+          {
+            "id": "7ee69023baf13caa",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "aa0279f8dda5acf2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "9400768a2bcfe6a7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "963d1fffe71a4fa5",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "1c841952b44069b3",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-chatgpt",
+              "state": {}
+            }
+          },
+          {
+            "id": "2892a713e6180fad",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "horizontal",
+    "width": 408.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-custom-frames:Open ChatGPT": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "janitor:Janitor: scan vault": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "d7589540208161be",
+  "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "1. Active/Master/Big Data Konzepte/01 - Prüfung/Flashcards/Data Governance.md",
+    "1. Active/Master/Big Data Konzepte/01 - Prüfung/Data Governance.canvas",
+    "1. Active/Master/Big Data Konzepte/01 - Prüfung/Flashcards/Data Governance-TABLET-H0HA61M7.md",
+    "1. Active/Master/Big Data Konzepte/01 - Prüfung/Flashcards",
+    "1. Active/Master/Big Data Konzepte/02 - Notes/Standard in Data Governance.md",
+    "1. Active/Master/Big Data Konzepte/02 - Notes/Richtlinie in Data Governance.md",
+    "1. Active/Master/Big Data Konzepte/02 - Notes/Data Board.md",
+    "1. Active/Master/Big Data Konzepte/02 - Notes/Data Office.md",
+    "1. Active/Master/Big Data Konzepte/02 - Notes/Business Capability.md",
+    "1. Active/Master/Computer Vision/02 - Notes/AD Perception Stack.md",
+    "1. Active/Master/Computer Vision/01 - Prüfung/Canvas/3D Reconstruction.canvas",
+    "1. Active/Master/Computer Vision/01 - Prüfung/Video Processing.canvas",
+    "1. Active/Master/Computer Vision/01 - Prüfung/Sequential Video Processing.canvas",
+    "1. Active/Master/Computer Vision/01 - Prüfung/Radar Processing.canvas",
+    "1. Active/Master/Computer Vision/01 - Prüfung/Point Cloud Data.canvas",
+    "1. Active/Master/Computer Vision/01 - Prüfung/Optical Flow.canvas",
+    "1. Active/Master/Computer Vision/01 - Prüfung/Image Formation.canvas",
+    "1. Active/Master/Computer Vision/01 - Prüfung/Data Fusion.canvas",
+    "1. Active/Master/Computer Vision/01 - Prüfung/3D Reconstruction.canvas",
+    "1. Active/Master/Computer Vision/Transformer.md",
+    "1. Active/Master/Computer Vision/02 - Notes/Zero Padding.md",
+    "1. Active/Master/Computer Vision/02 - Notes/YOLO.md",
+    "1. Active/Master/Computer Vision/02 - Notes/Weighted Summed Square Difference (WSSD).md",
+    "1. Active/Master/Computer Vision/02 - Notes/Voxel Beispiel.png",
+    "1. Active/Master/Computer Vision/02 - Notes/Vollständig vernetzte Schichten (Fully connected Layers).md",
+    "1. Active/Master/Computer Vision/02 - Notes/Visual Simultaneous Localization and Mapping (vSLAM).md",
+    "1. Active/Master/Computer Vision/02 - Notes/VGG Net.md",
+    "1. Active/Master/Computer Vision/02 - Notes/Vanishing Gradient Problem.md",
+    "1. Active/Master/Computer Vision/02 - Notes/Untitled.md",
+    "1. Active/Master/Computer Vision/02 - Notes/Ungarischer Algorithmus.md",
+    "1. Active/Master/Computer Vision/02 - Notes/Underfitting.md",
+    "1. Active/Master/Computer Vision/02 - Notes/Translation.md",
+    "1. Active/Master/Computer Vision/02 - Notes/Transformer.md",
+    "1. Active/Master/Computer Vision/02 - Notes/Transformationen in der Image Formation.png",
+    "1. Active/Master/Computer Vision/02 - Notes/Tracking.md",
+    "1. Active/Master/Computer Vision/02 - Notes/Stitching.md",
+    "1. Active/Master/Computer Vision/02 - Notes/Stereo Rectification.md",
+    "1. Active/Master/Computer Vision/02 - Notes/Staining-Features.png",
+    "1. Active/Master/Computer Vision/02 - Notes/SIFT Extrema.png",
+    "1. Active/Master/Computer Vision/02 - Notes/Reduzierung an Video Informationen.png",
+    "1. Active/Master/Computer Vision/02 - Notes/Recursive Neural Network.png",
+    "1. Active/Master/Computer Vision/02 - Notes/Radar Cube.png",
+    "1. Active/Master/Computer Vision/02 - Notes/Perceptron.png",
+    "1. Active/Master/Computer Vision/02 - Notes/Pasted image 20231128185503.png",
+    "1. Active/Master/Computer Vision/02 - Notes/Kalman Filter.png",
+    "1. Active/Master/Computer Vision/02 - Notes",
+    "1. Active/Master/Computer Vision/Neuer Ordner",
+    "1. Active/Master/Big Data Konzepte/02 - Notes",
+    "1. Active/Master/Big Data Konzepte/Neuer Ordner",
+    "1. Active/Master/Big Data Konzepte/01 - Prüfung",
+    "1. Active/Master/Computer Vision/01 - Prüfung/Canvas",
+    "1. Active/Master/Computer Vision/01 - Prüfung/Themenvorschläge Praktische Arbeit.pdf",
+    "1. Active/Master/Computer Vision/01 - Prüfung",
+    "1. Active/Master/Computer Vision/Prüfungsvorbereitung"
+  ]
+}

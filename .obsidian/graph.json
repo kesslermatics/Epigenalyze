@@ -1,0 +1,22 @@
+{
+  "collapse-filter": true,
+  "search": "path:\"100 Active/Epigenalyze\"  ",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.2,
+  "nodeSizeMultiplier": 1.18525925925926,
+  "lineSizeMultiplier": 3.23237037037037,
+  "collapse-forces": false,
+  "centerStrength": 0.583148148148148,
+  "repelStrength": 12.1962962962963,
+  "linkStrength": 0.843888888888889,
+  "linkDistance": 106,
+  "scale": 0.07778967143223763,
+  "close": true
+}

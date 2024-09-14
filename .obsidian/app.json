@@ -1,0 +1,23 @@
+{
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "livePreview": true,
+  "spellcheckLanguages": null,
+  "trashOption": "local",
+  "newFileLocation": "folder",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "100 Active/Epigenalyze/Wikipedia",
+  "readableLineLength": true,
+  "showLineNumber": false,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "autoPairBrackets": true,
+  "newFileFolderPath": "100 Active/Epigenalyze/Wikipedia",
+  "propertiesInDocument": "hidden",
+  "newLinkFormat": "relative"
+}

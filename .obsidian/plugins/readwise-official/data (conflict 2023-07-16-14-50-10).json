@@ -1,0 +1,25 @@
+{
+  "token": "v2Cg6JM2Ws44o2m8FGgr0L52F2qoYgDGugq39q459E7r5vmpKC",
+  "readwiseDir": "Readwise",
+  "frequency": "1440",
+  "triggerOnLoad": true,
+  "isSyncing": false,
+  "lastSyncFailed": false,
+  "lastSavedStatusID": 9548911,
+  "currentSyncStatusID": 0,
+  "refreshBooks": false,
+  "booksToRefresh": [],
+  "booksIDsMap": {
+    "Readwise/Books/How to Take Smart Notes.md": "27536737",
+    "Readwise/Books/Ab Sofort Besser Sprechen - 700+ Techniken &Amp; Phrasen.md": "27536735",
+    "Readwise/Books/The Comfort Book.md": "29142525",
+    "Readwise/Books/Bachelor of Time.md": "29142524",
+    "Readwise/Books/Der 5-Uhr-Club.md": "29335565",
+    "Readwise/Books/How to Win Friends and Influence People.md": "29288711",
+    "Readwise/Books/The Miracle Morning.md": "29335559",
+    "Readwise/Books/How to Break Up With Your Phone.md": "29843268",
+    "Readwise/Books/Chatgpt Geld-Explosion.md": "29843267",
+    "Readwise/Books/The $150M Secret.md": "29843266"
+  },
+  "reimportShowConfirmation": true
+}

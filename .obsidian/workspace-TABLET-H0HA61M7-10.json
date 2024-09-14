@@ -1,0 +1,263 @@
+{
+  "main": {
+    "id": "eadd73654816a0f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff978d3bd72f09ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ec1b6732229ed2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100 Active/Master/Sprachassistenzsysteme/Notes/Spoken Language Understanding/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f8a84991486637f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ec7c8c093e936e6",
+        "type": "tabs",
+        "dimension": 73.7721021611002,
+        "children": [
+          {
+            "id": "e335941bcfcdef97",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2fc0c7a27bf9ffd3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "mark",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1969c6276f57de45",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "d2f012cc3ababd03",
+        "type": "tabs",
+        "dimension": 26.227897838899807,
+        "children": [
+          {
+            "id": "a4850f23d6a1a354",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 281.49999618530273
+  },
+  "right": {
+    "id": "7d761f10afe15ade",
+    "type": "split",
+    "children": [
+      {
+        "id": "b624071f9082a5d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44331e6717dccba7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "100 Active/Master/Sprachassistenzsysteme/Notes/Spoken Language Understanding/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7ea37c4489e0d6ae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "100 Active/Master/Sprachassistenzsysteme/Notes/Spoken Language Understanding/Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a086ac795a165136",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b01febd4ebb7ea22",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "100 Active/Master/Sprachassistenzsysteme/Notes/Spoken Language Understanding/Untitled.md"
+              }
+            }
+          },
+          {
+            "id": "7ee69023baf13caa",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "aa0279f8dda5acf2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "9400768a2bcfe6a7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "1c841952b44069b3",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-chatgpt",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 408.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-custom-frames:Open ChatGPT": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "janitor:Janitor: scan vault": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "7ec1b6732229ed2c",
+  "lastOpenFiles": [
+    "200 Wikipedia/Mel-Frequenz-Cepstrum-Koeffizienten (MFCC).md",
+    "100 Active/Master/Sprachassistenzsysteme/Notes/Spoken Language Understanding/Untitled.md",
+    "200 Wikipedia/AD Wandlung.png",
+    "200 Wikipedia/AD Wandlung.md",
+    "200 Wikipedia/Aktor.md",
+    "200 Wikipedia/Mel-Frequenz-Cepstrum-Koeffizienten (MFCC).png",
+    "100 Active/Master/Sprachassistenzsysteme/Notes/Spoken Language Understanding",
+    "200 Wikipedia/Markov Assumption.md",
+    "100 Active/Master/Sprachassistenzsysteme/Notes/Voice Assistance Systems/Sprachmodell.md",
+    "200 Wikipedia/Automatische Spracherkennung.md",
+    "100 Active/Master/Sprachassistenzsysteme/Notes/Voice Assistance Systems/Signalverarbeitung.md",
+    "200 Wikipedia/Signalabtastung und -quantisierung.md",
+    "200 Wikipedia/Signalabtastung und -quantisierung.png",
+    "200 Wikipedia/Mel-Frequenz-Cepstrum-Koeffizienten (MFCC)-2.png",
+    "200 Wikipedia/Mel-Frequenz-Cepstrum-Koeffizienten (MFCC)-1.png",
+    "200 Wikipedia/Fensterfunktionen.md",
+    "200 Wikipedia/Hannfenster.png",
+    "200 Wikipedia/Formanten.md",
+    "200 Wikipedia/Breitband_Schmalband.png",
+    "200 Wikipedia/Harmonische.md",
+    "200 Wikipedia/Fourier Transformation.md",
+    "200 Wikipedia/Fourier Transformation.png",
+    "200 Wikipedia/Shannonsches Abtasttheorem.md",
+    "200 Wikipedia/Quantisierungsfehler bei der Signalverarbeitung.md",
+    "200 Wikipedia/N-Gram.md",
+    "200 Wikipedia/Pasted image 20240412152042.png",
+    "200 Wikipedia/Zipf's Law.md",
+    "100 Active/Master/Sprachassistenzsysteme/Notes/Voice Assistance Systems/W2V-Bert.md",
+    "100 Active/Master/Sprachassistenzsysteme/Notes/Voice Assistance Systems",
+    "100 Active/Master/Sprachassistenzsysteme/Notes/Papernotes",
+    "100 Active/Master/Sprachassistenzsysteme/Notes/Untitled.md",
+    "200 Wikipedia/W2V-Bert-PreTraining Model.png",
+    "100 Active/Master/Sprachassistenzsysteme/Notes/ASR (Automatische Spracherkennung).canvas",
+    "100 Active/Master/Sprachassistenzsysteme/Notes/Voice Assistance Systems/Conformer.md",
+    "200 Wikipedia/Swish-Aktivierung.md",
+    "100 Active/Master/Computer Vision/02 - Notes/ReLu (Rectified Linear Unit).md",
+    "200 Wikipedia/Convolution Module.md",
+    "200 Wikipedia/GLU-Aktivierung.md",
+    "200 Wikipedia/Feed Forward Module.md",
+    "200 Wikipedia/Multi-Head Self Attention Module.md",
+    "100 Active/Master/Sprachassistenzsysteme/Notes/UNISPEECH.canvas",
+    "100 Active/Master/Sprachassistenzsysteme/Notes/W2V-Bert.canvas",
+    "100 Active/Master/Sprachassistenzsysteme/Notes/Multi-Modal Pre-Training.canvas",
+    "100 Active/Master/Sprachassistenzsysteme/Notes/Conformer.canvas",
+    "200 Wikipedia/Conformer.pdf",
+    "100 Active/Master/Seminar",
+    "100 Active/Master/KI in sicherheitsrelevanten Systemen/Notes",
+    "100 Active/Master/KI in sicherheitsrelevanten Systemen",
+    "create_summary.py.txt",
+    "Textdokument (neu).txt",
+    "create_summary.py",
+    "100 Active/Master/Sprachassistenzsysteme/Summary.canvas",
+    "100 Active/Master/Computer Vision/01 - Prüfung/Radar Processing.canvas",
+    "100 Active/Master/Computer Vision/01 - Prüfung/Video Processing.canvas",
+    "100 Active/Master/Computer Vision/01 - Prüfung/Sequential Video Processing.canvas",
+    "100 Active/Master/Computer Vision/01 - Prüfung/Point Cloud Data.canvas"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "accentColor": "#a0800e",
+  "translucency": true,
+  "baseFontSize": 18,
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "dashboard"
+  ]
+}

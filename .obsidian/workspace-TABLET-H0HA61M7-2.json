@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "eadd73654816a0f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "72df14cfa7da86f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fbdf56385150e59",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "74de4e3f38509f9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "L-Sit Progression.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f8a84991486637f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ec7c8c093e936e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e335941bcfcdef97",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2fc0c7a27bf9ffd3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#tagssssss",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1969c6276f57de45",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 284.49999618530273
+  },
+  "right": {
+    "id": "7d761f10afe15ade",
+    "type": "split",
+    "children": [
+      {
+        "id": "b624071f9082a5d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44331e6717dccba7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "L-Sit Progression.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7ea37c4489e0d6ae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "L-Sit Progression.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a086ac795a165136",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b01febd4ebb7ea22",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "L-Sit Progression.md"
+              }
+            }
+          },
+          {
+            "id": "16ba1451baf2aebe",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "7ee69023baf13caa",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "aa0279f8dda5acf2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 309.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "janitor:Janitor: scan vault": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "74de4e3f38509f9d",
+  "lastOpenFiles": [
+    "L-Sit Progression.md",
+    "3. Ressourcen/Karamellisierte Zwiebeln.md",
+    "2. Areas/Gesundheit/Vitamine.canvas",
+    "2. Areas/Untitled.md",
+    "2. Areas/Note-Taking/Die 3 Prinzipien des Note-Takings.md",
+    "1. Projekte/Brewing Guide/Kaffeerezepte/Black Coffee (Schwarzer Kaffee).md",
+    "1. Projekte/Brewing Guide/etst.md",
+    "2. Areas/Note-Taking/Untitled.md",
+    "2. Areas/Gesundheit/Untitled 1.md",
+    "Templates/Note Template.md",
+    "Templates",
+    "Readwise/Books/The Miracle Morning.md",
+    "Readwise/Books/The Comfort Book.md",
+    "Readwise/Books/The $150M Secret.md",
+    "Readwise/Books/How to Win Friends and Influence People.md",
+    "Readwise/Books/How to Take Smart Notes.md",
+    "Readwise/Books/How to Break Up With Your Phone.md",
+    "Readwise/Books/Der 5-Uhr-Club.md",
+    "Readwise/Books/Chatgpt Geld-Explosion.md",
+    "Readwise/Books/Bachelor of Time.md",
+    "Readwise/Books/Ab Sofort Besser Sprechen - 700+ Techniken &Amp; Phrasen.md",
+    "Readwise/Books",
+    "Readwise",
+    "1. Projekte/Brewing Guide/Kaffeerezepte/Single Espresso.md",
+    "1. Projekte/Brewing Guide/Kaffeerezepte/Milk Coffee (Kaffee mit Milch).md",
+    "1. Projekte/Brewing Guide/Kaffeerezepte/Macchiato.md",
+    "1. Projekte/Brewing Guide/Kaffeerezepte/Lungo.md",
+    "1. Projekte/Brewing Guide/Kaffeerezepte/Flat White.md",
+    "1. Projekte/Brewing Guide/Kaffeerezepte/Filter Coffee.md",
+    "1. Projekte/Brewing Guide/Kaffeerezepte/Double Espresso.md",
+    "1. Projekte/Brewing Guide/Kaffeerezepte",
+    "1. Active/Brewing Guide",
+    "1. Active",
+    "2. Areas/Gesundheit",
+    "1. Projekte/Master/KI/Künstliche Intelligenz.canvas",
+    "1. Projekte/Master/KI",
+    "1. Active/Master",
+    "4. Dateien",
+    "Master/Semester 1/Coffee/Pasted image 20230710111533.png",
+    "Master/Semester 1/Coffee/Pasted image 20230710111447.png",
+    "Pasted image 20230709213405.png",
+    "Untitled.canvas",
+    "Pasted image 20230709213411.png"
+  ]
+}
