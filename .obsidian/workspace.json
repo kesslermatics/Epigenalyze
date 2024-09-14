@@ -14,7 +14,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Active/Epigenalyze/Histon-Modifikation.md",
+                "file": "Chromatin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e081b06b5a1b0d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Überblick.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Active/Epigenalyze/Überblick.md",
+                "file": "Überblick.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "histon",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Active/Epigenalyze/Histon-Modifikation.md",
+                "file": "Chromatin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Active/Epigenalyze/Histon-Modifikation.md",
+                "file": "Chromatin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Active/Epigenalyze/Histon-Modifikation.md"
+                "file": "Chromatin.md"
               }
             }
           },
@@ -214,7 +226,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 553.5
+    "width": 553.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,10 +237,10 @@
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
       "janitor:Janitor: scan vault": false,
-      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-custom-frames:Open ChatGPT": false,
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
@@ -236,24 +249,29 @@
   },
   "active": "30848ee4e53035fc",
   "lastOpenFiles": [
-    "100 Active/Epigenalyze/Nukleotid.md",
-    "100 Active/Epigenalyze/Wikipedia/Nukleotidsäurestränge.png",
-    "100 Active/Epigenalyze/Wikipedia/Pasted image 20240913165944.png",
-    "100 Active/Epigenalyze/Wikipedia/RNA (Ribo-Nukleinsäure).md",
-    "100 Active/Epigenalyze/Wikipedia/RNA.md",
-    "100 Active/Epigenalyze/Wikipedia/Untitled.md",
-    "100 Active/Epigenalyze/Wikipedia/DNA (Desoxyribo-Nukleinsäure).md",
-    "100 Active/Epigenalyze/Wikipedia/DNA.md",
-    "100 Active/Epigenalyze/Wikipedia/DNA versus RNA.png",
-    "100 Active/Epigenalyze/Wikipedia/Pasted image 20240913165613.png",
-    "100 Active/Epigenalyze/DNA versus RNA.md",
-    "100 Active/Epigenalyze/Wikipedia/DNA versus RNA.md",
-    "100 Active/Epigenalyze/Wikipedia/DNA vs RNA.md",
-    "100 Active/Epigenalyze/Wikipedia/DNA vs. RNA.md",
-    "100 Active/Epigenalyze/Wikipedia/Nukleotid.md",
-    "100 Active/Epigenalyze/Chromatin.md",
-    "100 Active/Epigenalyze/Wikipedia/Phosphorylisierung.md",
-    "100 Active/Epigenalyze/Phosphorylisierung.md",
+    "Überblick.md",
+    "Chromatin.md",
+    "README.md",
+    "Wie funktioniert die Genexpression.md",
+    "Was ist Epigenetik.md",
+    "Histon-Modifikation.md",
+    "DNA-Methylierung.md",
+    "conflict-files-obsidian-git.md",
+    "Nukleotid.md",
+    "Wikipedia/Acethylierung.md",
+    "Wikipedia/Histon.md",
+    "Wikipedia/Methylgruppenanordnung.png",
+    "Wikipedia/Methylgruppen.md",
+    "Wikipedia/Nukleotidsäurestränge.png",
+    "Wikipedia/Epigenetische Vererbung.md",
+    "Wikipedia/Chromatinformen.jpg",
+    "Wikipedia/Chromatin-Aufbau.png",
+    "Wikipedia/DNA (Desoxyribo-Nukleinsäure).md",
+    "DNA versus RNA.md",
+    "Wikipedia/DNA versus RNA.png",
+    "Wikipedia/RNA (Ribo-Nukleinsäure).md",
+    "Wikipedia/DNA.md",
+    "Wikipedia/Phosphorylisierung.md",
     "100 Active/Epigenalyze/DNA-Methylierung.md",
     "100 Active/Epigenalyze/Was ist Epigenetik.md",
     "100 Active/Epigenalyze/Überblick.md",
@@ -262,16 +280,11 @@
     "100 Active/Epigenalyze/Wikipedia/Acethylierung.md",
     "100 Active/Epigenalyze/Histon-Modifikation.md",
     "200 Wikipedia/Vorhersage von Wasserqualitäts-Parametern.md",
-    "200 Wikipedia/Feststoffe (Total Solids).md",
-    "200 Wikipedia/pH.md",
-    "200 Wikipedia/Wassertemperatur.md",
-    "100 Active/Epigenalyze/Mechanismen der Epigenetik.md",
     "100 Active/Epigenalyze/Wikipedia/Chromatin-Aufbau.png",
     "100 Active/Epigenalyze/Wikipedia/Chromatin.png",
     "100 Active/Epigenalyze/Wikipedia/Methylgruppenanordnung.png",
     "100 Active/Epigenalyze/Wikipedia/Mechanismen der Epigenetik.png",
     "100 Active/Epigenalyze/Wikipedia/Mechanismen der Epigenetik-1.png",
-    "100 Active/Epigenalyze/Wikipedia/Epigenetik.png",
     "100 Active/Epigenalyze/Wikipedia",
     "100 Active/Master/Computer Vision/01 - Prüfung/Feature Detection & Matching.canvas",
     "100 Active/Master/Computer Vision/01 - Prüfung/Data Fusion.canvas",
