@@ -1,12 +1,10 @@
 ---
 created at: Wednesday, September 11th 2024, 3:06:37 pm
-updated at: Saturday, September 14th 2024, 12:02:27 pm
+updated at: Saturday, September 14th 2024, 12:07:57 pm
 tags: 
 ---
 
-- **Umwelt und Epigenetik: Einfluss externer Faktoren auf das Epigenom**
-    
-    - Verlinke auf: **Ernährung**, **Rauchen**, **Stress**, **Toxine**.
+
 - **Epigenetik und Alterung**
     
     - Verlinke auf: **Epigenetische Uhr**, **Biologisches Alter**, **DNA-Schädigung**, **Zelluläre Seneszenz**.

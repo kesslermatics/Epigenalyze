@@ -1,6 +1,6 @@
 ---
 created at: Saturday, September 14th 2024, 12:06:03 pm
-updated at: Saturday, September 14th 2024, 12:06:09 pm
+updated at: Saturday, September 14th 2024, 12:07:53 pm
 tags: 
 ---
 Die **Epigenetik** erforscht, wie Umweltfaktoren die **Genexpression** beeinflussen, ohne die DNA-Sequenz zu verändern. Umweltbedingungen können epigenetische Markierungen verändern und so die Aktivität von Genen modulieren, was Auswirkungen auf Gesundheit, Entwicklung und Verhalten haben kann.
@@ -31,3 +31,19 @@ Die **Epigenetik** erforscht, wie Umweltfaktoren die **Genexpression** beeinflus
 
 - **UV-Strahlung**: Kann DNA-Schäden verursachen und epigenetische Mechanismen aktivieren, die die **DNA-Reparatur** fördern.
 - **Temperatur**: Bei einigen Organismen beeinflusst die Umgebungstemperatur die Genexpression und somit phänotypische Merkmale.
+
+
+---
+
+## Langfristige Auswirkungen
+
+### Entwicklungsprogrammierung
+
+- **Pränatale Umwelt**: Ernährung und Stress der Mutter können die epigenetische Programmierung des Fötus beeinflussen und langfristige Auswirkungen auf Gesundheit und Krankheit haben.
+- **Epigenetische Vererbung**: Einige epigenetische Veränderungen können über Generationen hinweg vererbt werden (**[[Epigenetische Vererbung]]**).
+
+### Krankheitsrisiken
+
+- **[[Krebs]]**: Umweltfaktoren können zu abnormalen DNA-Methylierungsmustern führen, die Onkogene aktivieren oder Tumorsuppressorgene stilllegen.
+- **Metabolische Erkrankungen**: Epigenetische Veränderungen können zu **[[Fettleibigkeit]]**, **[[Diabetes]]** und anderen Stoffwechselstörungen beitragen.
+- **Neurologische Erkrankungen**: Umweltbedingte epigenetische Modifikationen können das Risiko für **[[Depression]]**, **[[Angststörungen]]** und **[[Neurodegenerative Erkrankungen]]** erhöhen.
