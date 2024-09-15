@@ -1,12 +1,9 @@
 ---
 created at: Wednesday, September 11th 2024, 3:06:37 pm
-updated at: Sunday, September 15th 2024, 11:37:07 am
+updated at: Sunday, September 15th 2024, 11:46:44 am
 tags: 
 ---
 
-- **Epigenetik und Stoffwechselerkrankungen**
-    
-    - Verlinke auf: **Diabetes**, **Adipositas**, **Insulinresistenz**, **Metabolisches Syndrom**.
 - **Epigenetische Mechanismen bei neurodegenerativen Erkrankungen**
     
     - Verlinke auf: **Alzheimer**, **Parkinson**, **Neuroinflammation**, **Proteinfaltung**.
