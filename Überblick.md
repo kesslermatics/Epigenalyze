@@ -1,13 +1,9 @@
 ---
 created at: Wednesday, September 11th 2024, 3:06:37 pm
-updated at: Sunday, September 15th 2024, 12:01:19 pm
+updated at: Sunday, September 15th 2024, 12:06:22 pm
 tags: 
 ---
 
-
-- **Methoden zur Untersuchung epigenetischer Veränderungen**
-    
-    - Verlinke auf: **Bisulfit-Sequenzierung**, **ChIP-Seq**, **ATAC-Seq**, **Methylierungsarrays**.
 - **KI in der Analyse epigenetischer Daten**
     
     - Verlinke auf: **Machine Learning**, **Deep Learning**, **Vorhersagemodelle**, **Big Data**.

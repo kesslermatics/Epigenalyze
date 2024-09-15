@@ -1,6 +1,6 @@
 ---
 created at: Wednesday, September 11th 2024, 6:32:39 pm
-updated at: Saturday, September 14th 2024, 4:48:43 pm
+updated at: Sunday, September 15th 2024, 12:06:28 pm
 tags: 
 ---
 Das Chromatin ist ein Material, aus welches das [[Chromosom]] besteht.
@@ -18,5 +18,5 @@ Es gibt zwei Arten von Chromatinen:
     - **Funktion**: Euchromatin enthält aktive Gene, die für die Transkription bereitstehen. Es ist der Bereich des Genoms, in dem Gene reguliert und exprimiert werden, um Proteine herzustellen.
     - **Verwendung**: Euchromatin wird für die aktive Genexpression verwendet, wobei Gene transkribiert und in RNA umgeschrieben werden, um Proteine zu produzieren.
 
-![[Wikipedia/Chromatinformen.jpg]]
+![[Wikipedia/Attachements/Chromatinformen.jpg]]
 Hier werden die DNA mithilfe von [[Nuklesomen]] umwickelt, die aus [[Histon|Histonen]] bestehen und anhand der Wickeldichte entscheiden, wie zugänglich die jeweilige DNA ist.

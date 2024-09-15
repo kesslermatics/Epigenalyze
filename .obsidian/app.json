@@ -11,7 +11,7 @@
   "trashOption": "local",
   "newFileLocation": "folder",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "Wikipedia",
+  "attachmentFolderPath": "Wikipedia/Attachements",
   "readableLineLength": true,
   "showLineNumber": false,
   "alwaysUpdateLinks": true,

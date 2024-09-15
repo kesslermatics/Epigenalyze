@@ -11,4 +11,4 @@ Sie besteht aus 3 Komponenten:
 - **Stickstoffhaltige Base**: Es gibt vier Basen in der DNA: Adenin (A), Guanin (G), Cytosin (C) und Thymin (T). In der RNA ersetzt Uracil (U) das Thymin. Diese Basen sind an den Zucker gebunden und paaren sich bei der DNA-Doppelhelix.
 
 
-![[Nukleotidsäurestränge.png]]
+![[Wikipedia/Attachements/Nukleotidsäurestränge.png]]
