@@ -9,12 +9,12 @@
         "dimension": 54.63474524248005,
         "children": [
           {
-            "id": "4db6ae3e4f005be0",
+            "id": "c21f46f8d12027b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Epigenetik und Neurodegenerative Erkrankungen.md",
+                "file": "Epigenetik und Immunologie.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Überblick.md",
+                "file": "Epigenetik und Immunologie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Überblick.md",
+                "file": "Epigenetik und Immunologie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Überblick.md"
+                "file": "Epigenetik und Immunologie.md"
               }
             }
           },
@@ -235,12 +235,13 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "a8915f2a1ab6927e",
+  "active": "c21f46f8d12027b1",
   "lastOpenFiles": [
     "Epigenetik und Neurodegenerative Erkrankungen.md",
+    "Epigenetik und Immunologie.md",
+    "Überblick.md",
     "Epigenetik und Stoffwechselerkrankungen.md",
     "Wikipedia/Metabolisches Syndrom.md",
-    "Überblick.md",
     "Wikipedia/Untitled.md",
     "Epigenetische Vererbung.md",
     "Biomarker in der Epigenetik.md",
@@ -266,7 +267,6 @@
     "Wikipedia/Methylgruppen.md",
     "Wikipedia/Epigenetische Vererbung.md",
     "Wikipedia/Chromatin-Aufbau.png",
-    "Wikipedia/DNA (Desoxyribo-Nukleinsäure).md",
     "Wikipedia/DNA versus RNA.png",
     "100 Active/Epigenalyze/Wikipedia/Chromatin-Aufbau.png",
     "100 Active/Epigenalyze/Wikipedia/Chromatin.png",

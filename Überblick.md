@@ -1,12 +1,10 @@
 ---
 created at: Wednesday, September 11th 2024, 3:06:37 pm
-updated at: Sunday, September 15th 2024, 11:46:44 am
+updated at: Sunday, September 15th 2024, 11:49:03 am
 tags: 
 ---
 
-- **Epigenetische Mechanismen bei neurodegenerativen Erkrankungen**
-    
-    - Verlinke auf: **Alzheimer**, **Parkinson**, **Neuroinflammation**, **Proteinfaltung**.
+-
 - **Epigenetik und Immunologie**
     
     - Verlinke auf: **Autoimmunerkrankungen**, **Entzündungsprozesse**, **T-Zell-Aktivierung**, **Immunmodulation**.
