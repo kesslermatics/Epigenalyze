@@ -7,4 +7,4 @@ Unter der DNA-Methylierung versteht man die chemische Anbindung von [[Methylgrup
 
 Durch die Methylierung von [[Cytosin]] einer [[Wikipedia/DNA (Desoxyribo-Nukleinsäure)]], wird das betroffene Gen **inaktiv**.
 
-Eine Störung der DNA-Methylierung kann zu Fehlregulationen der [[Genexpression]] führen, was oft mit verschiedenen Krankheiten in Verbindung gebracht wird. Beispielsweise kann eine [[Hypomethylierung]] (zu wenig Methylierung) zur Aktivierung von [[Wikipedia/Onkogene|Onkogenen]] beitragen und somit Krebs fördern, während [[Hypermethylierung]] (zu viel Methylierung) [[Tumorsuppressorgene]] stilllegen kann.
+Eine Störung der DNA-Methylierung kann zu Fehlregulationen der [[Genexpression]] führen, was oft mit verschiedenen Krankheiten in Verbindung gebracht wird. Beispielsweise kann eine [[Hypomethylierung]] (zu wenig Methylierung) zur Aktivierung von [[Wikipedia/Onkogene|Onkogenen]] beitragen und somit Krebs fördern, während [[Hypermethylierung]] (zu viel Methylierung) [[Wikipedia/Tumorsuppressorgene]] stilllegen kann.

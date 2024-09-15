@@ -11,13 +11,13 @@
   "trashOption": "local",
   "newFileLocation": "folder",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "100 Active/Epigenalyze/Wikipedia",
+  "attachmentFolderPath": "Wikipedia",
   "readableLineLength": true,
   "showLineNumber": false,
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "autoPairBrackets": true,
-  "newFileFolderPath": "100 Active/Epigenalyze/Wikipedia",
+  "newFileFolderPath": "Wikipedia",
   "propertiesInDocument": "hidden",
   "newLinkFormat": "relative"
 }

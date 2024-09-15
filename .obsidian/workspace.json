@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wikipedia/Onkogene.md",
+                "file": "Wikipedia/Tumorsuppressorgene.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wikipedia/Onkogene.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wikipedia/Onkogene.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,9 +158,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Wikipedia/Onkogene.md"
-              }
+              "state": {}
             }
           },
           {
@@ -235,12 +231,13 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e335941bcfcdef97",
+  "active": "a4850f23d6a1a354",
   "lastOpenFiles": [
-    "Epigenetik und Krebs.md",
-    "Wikipedia/Onkogene.md",
-    "Umwelt und Epigenetik.md",
     "Überblick.md",
+    "Wikipedia/Tumorsuppressorgene.md",
+    "Wikipedia/Onkogene.md",
+    "Epigenetik und Krebs.md",
+    "Umwelt und Epigenetik.md",
     "DNA-Methylierung.md",
     "Was ist Epigenetik.md",
     "Epigenetik und Alterung.md",
@@ -267,7 +264,6 @@
     "Wikipedia/DNA.md",
     "Wikipedia/Phosphorylisierung.md",
     "100 Active/Epigenalyze/DNA-Methylierung.md",
-    "100 Active/Epigenalyze/Was ist Epigenetik.md",
     "100 Active/Epigenalyze/Wikipedia/Chromatin-Aufbau.png",
     "100 Active/Epigenalyze/Wikipedia/Chromatin.png",
     "100 Active/Epigenalyze/Wikipedia/Methylgruppenanordnung.png",
