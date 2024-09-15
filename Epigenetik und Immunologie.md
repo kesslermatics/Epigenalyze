@@ -1,5 +1,10 @@
 ---
 created at: Sunday, September 15th 2024, 11:49:04 am
-updated at: Sunday, September 15th 2024, 11:49:15 am
+updated at: Sunday, September 15th 2024, 11:51:36 am
 tags: 
 ---
+Die **Epigenetik** beeinflusst die **Immunologie** wesentlich, indem sie die Genexpression in Immunzellen steuert und somit die Immunantwort reguliert. Epigenetische Mechanismen wie DNA-Methylierung und Histon-Modifikationen können Gene aktivieren oder stilllegen, was die Differenzierung und Funktion von Immunzellen bestimmt. Eine zentrale Rolle spielt dies bei der **[[T-Zell-Aktivierung]]**, wo epigenetische Veränderungen die Expression von Zytokinen und Oberflächenmolekülen modulieren, die für die effektive Immunantwort notwendig sind.
+
+Störungen in epigenetischen Mustern können zu **[[Autoimmunerkrankungen]]** führen, bei denen das Immunsystem fälschlicherweise körpereigene Zellen angreift. Epigenetische Fehlregulationen können die Selbsttoleranz beeinträchtigen, indem sie die Expression von Genen verändern, die für die Unterscheidung zwischen eigen und fremd wichtig sind. Zudem beeinflussen epigenetische Modifikationen die **[[Entzündungsprozesse]]**, indem sie die Produktion proinflammatorischer oder antiinflammatorischer Mediatoren regulieren, was den Verlauf von Entzündungen und chronischen Krankheiten bestimmt.
+
+Die **[[Immunmodulation]]** durch epigenetische Interventionen bietet ein vielversprechendes therapeutisches Potenzial. Durch gezielte Beeinflussung epigenetischer Markierungen können Immunreaktionen angepasst werden, um übermäßige Entzündungen zu reduzieren oder die Immunantwort bei Infektionen und Krebs zu verstärken. Epigenetische Medikamente, die Histon-Deacetylasen oder DNA-Methyltransferasen hemmen, werden bereits erforscht, um das Gleichgewicht im Immunsystem wiederherzustellen und neue Behandlungsmöglichkeiten für immunologische Erkrankungen zu entwickeln.

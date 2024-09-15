@@ -4,10 +4,7 @@ updated at: Sunday, September 15th 2024, 11:49:03 am
 tags: 
 ---
 
--
-- **Epigenetik und Immunologie**
-    
-    - Verlinke auf: **Autoimmunerkrankungen**, **Entzündungsprozesse**, **T-Zell-Aktivierung**, **Immunmodulation**.
+
 - **Methoden zur Untersuchung epigenetischer Veränderungen**
     
     - Verlinke auf: **Bisulfit-Sequenzierung**, **ChIP-Seq**, **ATAC-Seq**, **Methylierungsarrays**.
