@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Epigenetik und Krebs.md",
+                "file": "Onkogene.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "onkoge",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Überblick.md",
+                "file": "Onkogene.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Überblick.md",
+                "file": "Onkogene.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Überblick.md"
+                "file": "Onkogene.md"
               }
             }
           },
@@ -235,20 +235,21 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "a8915f2a1ab6927e",
+  "active": "e5a49d203bc4477e",
   "lastOpenFiles": [
     "Epigenetik und Krebs.md",
+    "Onkogene.md",
+    "Umwelt und Epigenetik.md",
+    "Überblick.md",
+    "DNA-Methylierung.md",
     "Was ist Epigenetik.md",
     "Epigenetik und Alterung.md",
-    "Überblick.md",
     "Epigenetische Vererbung.md",
     "Wikipedia/Genetische Uhr.md",
     "Wikipedia/Nukleotidsäurestränge.png",
     "Chromatin.md",
-    "Umwelt und Epigenetik.md",
     "Histon-Modifikation.md",
     "Nukleotid.md",
-    "DNA-Methylierung.md",
     "README.md",
     "Wie funktioniert die Genexpression.md",
     "conflict-files-obsidian-git.md",
@@ -267,7 +268,6 @@
     "Wikipedia/Phosphorylisierung.md",
     "100 Active/Epigenalyze/DNA-Methylierung.md",
     "100 Active/Epigenalyze/Was ist Epigenetik.md",
-    "100 Active/Epigenalyze/Überblick.md",
     "100 Active/Epigenalyze/Wikipedia/Chromatin-Aufbau.png",
     "100 Active/Epigenalyze/Wikipedia/Chromatin.png",
     "100 Active/Epigenalyze/Wikipedia/Methylgruppenanordnung.png",
