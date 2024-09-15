@@ -1,12 +1,9 @@
 ---
 created at: Wednesday, September 11th 2024, 3:06:37 pm
-updated at: Sunday, September 15th 2024, 11:32:38 am
+updated at: Sunday, September 15th 2024, 11:37:07 am
 tags: 
 ---
 
-- **Epigenetik in der personalisierten Medizin**
-    
-    - Verlinke auf: **Pharmakogenomik**, **Biomarker**, **Therapieoptimierung**, **Genotypisierung**.
 - **Epigenetik und Stoffwechselerkrankungen**
     
     - Verlinke auf: **Diabetes**, **Adipositas**, **Insulinresistenz**, **Metabolisches Syndrom**.

@@ -9,31 +9,18 @@
         "dimension": 54.63474524248005,
         "children": [
           {
-            "id": "e5a49d203bc4477e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wikipedia/Tumorsuppressorgene.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4db6ae3e4f005be0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biomarker in der Epigenetik.md",
+                "file": "Epigenetik und Stoffwechselerkrankungen.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "2b711c054653eef2",
@@ -134,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biomarker in der Epigenetik.md",
+                "file": "Epigenetik und Stoffwechselerkrankungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biomarker in der Epigenetik.md",
+                "file": "Epigenetik und Stoffwechselerkrankungen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biomarker in der Epigenetik.md"
+                "file": "Epigenetik und Stoffwechselerkrankungen.md"
               }
             }
           },
@@ -250,13 +237,14 @@
   },
   "active": "4db6ae3e4f005be0",
   "lastOpenFiles": [
+    "Biomarker in der Epigenetik.md",
+    "Überblick.md",
+    "Epigenetik und Stoffwechselerkrankungen.md",
     "Wikipedia/Nukleotidsäurestränge.png",
     "Wikipedia/Onkogene.md",
-    "Biomarker in der Epigenetik.md",
     "Wikipedia/Chromatinformen.jpg",
     "DNA-Methylierung.md",
     "Wikipedia/Tumorsuppressorgene.md",
-    "Überblick.md",
     "Nukleotid.md",
     "Epigenetik und Krebs.md",
     "Epigenetik und Alterung.md",
