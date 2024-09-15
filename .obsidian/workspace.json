@@ -19,8 +19,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4d3d874b7e6cc39d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untersuchung von epigenetischen Veränderungen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "2b711c054653eef2",
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Epigenetik und Immunologie.md",
+                "file": "Untersuchung von epigenetischen Veränderungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Epigenetik und Immunologie.md",
+                "file": "Untersuchung von epigenetischen Veränderungen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Epigenetik und Immunologie.md"
+                "file": "Untersuchung von epigenetischen Veränderungen.md"
               }
             }
           },
@@ -235,10 +248,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "c21f46f8d12027b1",
+  "active": "4d3d874b7e6cc39d",
   "lastOpenFiles": [
-    "Überblick.md",
     "Epigenetik und Immunologie.md",
+    "Untersuchung von epigenetischen Veränderungen.md",
+    "Überblick.md",
     "Epigenetik und Neurodegenerative Erkrankungen.md",
     "Epigenetik und Stoffwechselerkrankungen.md",
     "Wikipedia/Metabolisches Syndrom.md",
@@ -265,7 +279,6 @@
     "Wikipedia/Histon.md",
     "Wikipedia/Methylgruppenanordnung.png",
     "Wikipedia/Methylgruppen.md",
-    "Wikipedia/Epigenetische Vererbung.md",
     "Wikipedia/Chromatin-Aufbau.png",
     "Wikipedia/DNA versus RNA.png",
     "100 Active/Epigenalyze/Wikipedia/Chromatin-Aufbau.png",
