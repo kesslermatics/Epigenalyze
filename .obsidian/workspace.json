@@ -19,8 +19,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4db6ae3e4f005be0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biomarker in der Epigenetik.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "2b711c054653eef2",
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wikipedia/Tumorsuppressorgene.md",
+                "file": "Biomarker in der Epigenetik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wikipedia/Tumorsuppressorgene.md",
+                "file": "Biomarker in der Epigenetik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wikipedia/Tumorsuppressorgene.md"
+                "file": "Biomarker in der Epigenetik.md"
               }
             }
           },
@@ -235,20 +248,22 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e5a49d203bc4477e",
+  "active": "4db6ae3e4f005be0",
   "lastOpenFiles": [
-    "Überblick.md",
+    "Wikipedia/Nukleotidsäurestränge.png",
+    "Wikipedia/Onkogene.md",
+    "Biomarker in der Epigenetik.md",
+    "Wikipedia/Chromatinformen.jpg",
+    "DNA-Methylierung.md",
     "Wikipedia/Tumorsuppressorgene.md",
+    "Überblick.md",
     "Nukleotid.md",
     "Epigenetik und Krebs.md",
     "Epigenetik und Alterung.md",
-    "Wikipedia/Onkogene.md",
     "Umwelt und Epigenetik.md",
-    "DNA-Methylierung.md",
     "Was ist Epigenetik.md",
     "Epigenetische Vererbung.md",
     "Wikipedia/Genetische Uhr.md",
-    "Wikipedia/Nukleotidsäurestränge.png",
     "Chromatin.md",
     "Histon-Modifikation.md",
     "README.md",
@@ -259,15 +274,12 @@
     "Wikipedia/Methylgruppenanordnung.png",
     "Wikipedia/Methylgruppen.md",
     "Wikipedia/Epigenetische Vererbung.md",
-    "Wikipedia/Chromatinformen.jpg",
     "Wikipedia/Chromatin-Aufbau.png",
     "Wikipedia/DNA (Desoxyribo-Nukleinsäure).md",
     "DNA versus RNA.md",
     "Wikipedia/DNA versus RNA.png",
     "Wikipedia/RNA (Ribo-Nukleinsäure).md",
     "Wikipedia/DNA.md",
-    "Wikipedia/Phosphorylisierung.md",
-    "100 Active/Epigenalyze/DNA-Methylierung.md",
     "100 Active/Epigenalyze/Wikipedia/Chromatin-Aufbau.png",
     "100 Active/Epigenalyze/Wikipedia/Chromatin.png",
     "100 Active/Epigenalyze/Wikipedia/Methylgruppenanordnung.png",

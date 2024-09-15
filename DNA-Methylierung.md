@@ -1,6 +1,6 @@
 ---
 created at: Wednesday, September 11th 2024, 3:09:16 pm
-updated at: Sunday, September 15th 2024, 11:20:41 am
+updated at: Sunday, September 15th 2024, 11:34:21 am
 tags: 
 ---
 Unter der DNA-Methylierung versteht man die chemische Anbindung von [[Methylgruppen]] an bestimmte [[Nukleotide]] der [[Wikipedia/DNA (Desoxyribo-Nukleinsäure)]].
