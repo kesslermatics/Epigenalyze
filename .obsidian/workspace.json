@@ -33,24 +33,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "db4b2abb667191b2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4d3d874b7e6cc39d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Überblick.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -246,12 +228,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e335941bcfcdef97",
+  "active": "24536afb8e5d6102",
   "lastOpenFiles": [
-    "Epigenetik und Immunologie.md",
-    "Anwendungen von KI in der Epigenetik.md",
-    "Überblick.md",
     "Untersuchung von epigenetischen Veränderungen.md",
+    "Überblick.md",
+    "Anwendungen von KI in der Epigenetik.md",
+    "Epigenetik und Immunologie.md",
     "Chromatin.md",
     "Wikipedia/Attachements/Chromatinformen.jpg",
     "Wikipedia/Attachements",
