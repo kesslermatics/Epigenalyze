@@ -121,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Wikipedia/Tumorsuppressorgene.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Wikipedia/Tumorsuppressorgene.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Wikipedia/Tumorsuppressorgene.md"
+              }
             }
           },
           {
@@ -231,22 +235,22 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "a4850f23d6a1a354",
+  "active": "e5a49d203bc4477e",
   "lastOpenFiles": [
     "Überblick.md",
     "Wikipedia/Tumorsuppressorgene.md",
-    "Wikipedia/Onkogene.md",
+    "Nukleotid.md",
     "Epigenetik und Krebs.md",
+    "Epigenetik und Alterung.md",
+    "Wikipedia/Onkogene.md",
     "Umwelt und Epigenetik.md",
     "DNA-Methylierung.md",
     "Was ist Epigenetik.md",
-    "Epigenetik und Alterung.md",
     "Epigenetische Vererbung.md",
     "Wikipedia/Genetische Uhr.md",
     "Wikipedia/Nukleotidsäurestränge.png",
     "Chromatin.md",
     "Histon-Modifikation.md",
-    "Nukleotid.md",
     "README.md",
     "Wie funktioniert die Genexpression.md",
     "conflict-files-obsidian-git.md",

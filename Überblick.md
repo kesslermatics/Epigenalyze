@@ -1,15 +1,9 @@
 ---
 created at: Wednesday, September 11th 2024, 3:06:37 pm
-updated at: Saturday, September 14th 2024, 4:52:59 pm
+updated at: Sunday, September 15th 2024, 11:32:38 am
 tags: 
 ---
 
-- **Epigenetik und Krebs**
-    
-    - Verlinke auf: **Tumorsuppressor-Gene**, **Onkogene**, **Epimutationen**, **Therapeutische Zielmoleküle**.
-- **Epigenetische Therapien: Zukunft der Krebsbehandlung**
-    
-    - Verlinke auf: **DNA-Methyltransferase-Inhibitoren**, **Histon-Deacetylase-Inhibitoren**, **Immuntherapie**.
 - **Epigenetik in der personalisierten Medizin**
     
     - Verlinke auf: **Pharmakogenomik**, **Biomarker**, **Therapieoptimierung**, **Genotypisierung**.
