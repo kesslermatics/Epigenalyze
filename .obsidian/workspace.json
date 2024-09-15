@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "24536afb8e5d6102",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anwendungen von KI in der Epigenetik.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "db4b2abb667191b2",
@@ -119,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Epigenetik und Immunologie.md",
+                "file": "Anwendungen von KI in der Epigenetik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Epigenetik und Immunologie.md",
+                "file": "Anwendungen von KI in der Epigenetik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Epigenetik und Immunologie.md"
+                "file": "Anwendungen von KI in der Epigenetik.md"
               }
             }
           },
@@ -235,12 +248,13 @@
   },
   "active": "e335941bcfcdef97",
   "lastOpenFiles": [
+    "Epigenetik und Immunologie.md",
+    "Anwendungen von KI in der Epigenetik.md",
     "Überblick.md",
     "Untersuchung von epigenetischen Veränderungen.md",
     "Chromatin.md",
     "Wikipedia/Attachements/Chromatinformen.jpg",
     "Wikipedia/Attachements",
-    "Epigenetik und Immunologie.md",
     "Epigenetik und Neurodegenerative Erkrankungen.md",
     "Epigenetik und Stoffwechselerkrankungen.md",
     "Wikipedia/Metabolisches Syndrom.md",
