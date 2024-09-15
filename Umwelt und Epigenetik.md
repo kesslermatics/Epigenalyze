@@ -1,6 +1,6 @@
 ---
 created at: Saturday, September 14th 2024, 12:06:03 pm
-updated at: Sunday, September 15th 2024, 11:20:59 am
+updated at: Sunday, September 15th 2024, 12:16:30 pm
 tags: 
 ---
 Die **Epigenetik** erforscht, wie Umweltfaktoren die **Genexpression** beeinflussen, ohne die DNA-Sequenz zu verändern. Umweltbedingungen können epigenetische Markierungen verändern und so die Aktivität von Genen modulieren, was Auswirkungen auf Gesundheit, Entwicklung und Verhalten haben kann.

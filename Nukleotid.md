@@ -1,6 +1,6 @@
 ---
 created at: Friday, September 13th 2024, 4:54:02 pm
-updated at: Friday, September 13th 2024, 4:59:58 pm
+updated at: Sunday, September 15th 2024, 12:16:27 pm
 tags: 
 ---
 Ein Nukleotid ist die Grundeinheit von Nukleinsäuren, wie etwa [[DNA (Desoxyribo-Nukleinsäure)]] oder [[RNA (Ribo-Nukleinsäure)]].
