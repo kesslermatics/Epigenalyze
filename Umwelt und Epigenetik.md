@@ -44,6 +44,6 @@ Die **Epigenetik** erforscht, wie Umweltfaktoren die **Genexpression** beeinflus
 
 ### Krankheitsrisiken
 
-- **[[Krebs]]**: Umweltfaktoren können zu abnormalen DNA-Methylierungsmustern führen, die [[Onkogene]] aktivieren oder Tumorsuppressorgene stilllegen.
+- **[[Krebs]]**: Umweltfaktoren können zu abnormalen DNA-Methylierungsmustern führen, die [[Wikipedia/Onkogene]] aktivieren oder Tumorsuppressorgene stilllegen.
 - **Metabolische Erkrankungen**: Epigenetische Veränderungen können zu **[[Fettleibigkeit]]**, **[[Diabetes]]** und anderen Stoffwechselstörungen beitragen.
 - **Neurologische Erkrankungen**: Umweltbedingte epigenetische Modifikationen können das Risiko für **[[Depression]]**, **[[Angststörungen]]** und **[[Neurodegenerative Erkrankungen]]** erhöhen.

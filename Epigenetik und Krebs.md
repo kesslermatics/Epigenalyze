@@ -6,4 +6,4 @@ tags:
 [[Krebs]] kann in der Epigenetik aus verschiedenen Gründen entstehen.
 In häufiger Grund ist die [[Hypermethylierung]] von gewissen Genen, die für ein gesundes Zellwachstum sorgen.
 
-Hier kann es auch vorkommen, dass es zur Stilllegung von [[Tumorsuppressorgene]] oder zur Überaktivierung von [[Onkogene|Onkogenen]] kommt.
+Hier kann es auch vorkommen, dass es zur Stilllegung von [[Tumorsuppressorgene]] oder zur Überaktivierung von [[Wikipedia/Onkogene|Onkogenen]] kommt.

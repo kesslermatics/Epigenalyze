@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Onkogene.md",
+                "file": "Wikipedia/Onkogene.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Onkogene.md",
+                "file": "Wikipedia/Onkogene.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Onkogene.md",
+                "file": "Wikipedia/Onkogene.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Onkogene.md"
+                "file": "Wikipedia/Onkogene.md"
               }
             }
           },
@@ -235,10 +235,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e5a49d203bc4477e",
+  "active": "e335941bcfcdef97",
   "lastOpenFiles": [
     "Epigenetik und Krebs.md",
-    "Onkogene.md",
+    "Wikipedia/Onkogene.md",
     "Umwelt und Epigenetik.md",
     "Überblick.md",
     "DNA-Methylierung.md",
